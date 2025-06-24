@@ -37,7 +37,6 @@ Welcome to **Week 5** of our Python learning journey! This week is all about cra
 - 🎥 [DP Playlist by Aditya Verma (YouTube)](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) – Deep and beginner-friendly explanations  
 - 📘 [Dynamic Programming – GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/) – Concepts + classic problems with code  
 - 🧩 [DP Patterns – LeetCode Guide](https://leetcode.com/discuss/general-discussion/475924/my-experience-and-all-dp-patterns-i-found)  
-- 🎓 [MIT OpenCourseWare – DP Lecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i/) – For deeper understanding
 
 ---
 
