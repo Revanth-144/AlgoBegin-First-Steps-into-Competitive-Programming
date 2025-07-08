@@ -16,7 +16,7 @@ The **Week 6 task** has been released. Please check it out using the link below:
 ---
 
 ## 🗓 Deadline:
-**7th July 2025 (Monday), by 11:59 PM**
+**9th July 2025 (Wednesday), by 11:59 PM**
 
 ❗ **Submission is COMPULSORY for everyone**
 
