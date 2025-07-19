@@ -1,48 +1,31 @@
-# 📢 SOC 2025 - AlgoBegin: Endterm Submission & Checkpoint ✅
+# 📢 SOC 2025 - AlgoBegin: Final Submission Reminder! 🚨
 
-Hello Coders ✨
+Hey everyone! 👋
 
-We hope your projects are **nearing completion** and that you thoroughly enjoyed the SOC 2025 journey, learning new things along the way!
-
----
-
-## 📌 **End Term Submission Requirements**
-
-### ✅ GitHub Repository
-Update the **same repository** you submitted for midterm (if applicable).
-
-### ✅ Video Presentation (max 10 min)
-Your video should include:
-- Project **Problem Statement**
-- Your **Proposed Solution**
-- **Results/Output Demo** (model accuracy, website demo, etc.)
-- *(Optional)* Quick **Code Overview**
-
-🎥 **Tips:**
-- Record via **GMeet/Teams** or any screen recording tool
-- Ensure video is clear, concise, and within 10 minutes
-- Upload video to **Google Drive** and share link with **view access for everyone**
+We’ve reached the end of our **SOC 2025 journey** with  
+**AlgoBegin: First Steps into Competitive Programming! 🎉**
 
 ---
 
-## 📋 **Endterm Checkpoint Form**
-**Mentee Checkpoint Form** *(mandatory for all SOC 2025 mentees)*:  
-👉 **[Mentee Checkpoint Form](https://docs.google.com/forms/d/e/1FAIpQLSd2sSgxFKDxiG7RNFdBvcUaOKtYk687i4cmtCOCbXkcmrThkw/viewform)**
+## 📌 **Submission Details**
+
+- ✅ Upload **ALL your coding files**
+- ✅ Include a **Report** covering:
+  - **What you learned during SOC**
+  - **Project Summary**: what you built & how you did it
 
 ---
 
-## ⏰ **Deadline**
-**28th July 2025, 11:59 PM**
-
-This checkpoint is crucial for the **final evaluation and certification**.
+## ⏰ **Deadline:**  
+📅 **25th July 2025, 11:59 PM**
 
 ---
 
-## 🙋 **Have Questions?**
-Feel free to ask in the group or reach out to your **WnCC POC**.
+## 📥 **Submit here:**  
+👉 **[Submission Form](https://forms.gle/Bdk1LXiaRdPpKJX67)**
 
 ---
 
-**Coders. Together. Strong. 🔥**
+Let's **close SOC on a high note! 💻🔥**
 
-#SOC2025 #AlgoBegin #EndTermSubmission
+#SOC2025 #AlgoBegin #FinalSubmission
